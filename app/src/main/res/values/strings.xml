@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cinema 21</string>
+
+    <string name="bookmarks">Bookmarks</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="judul_film">Movie Title</string>
+    <string name="rating">rate</string>
+    <string name="_titikdua">:</string>
+    <string name="_4_5">4.5</string>
+    <string name="poster">poster</string>
+
+
+</resources>
